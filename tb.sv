@@ -48,6 +48,8 @@ module thread();
       end
     join_none
     $display("******@%0t, fork join_none father thread begin", $time);
+
+      $display("test");
     
       # 20;
       $finish;
