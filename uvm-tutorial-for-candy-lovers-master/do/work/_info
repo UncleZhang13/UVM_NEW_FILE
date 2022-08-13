@@ -1,0 +1,216 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Uncle/Desktop/UVM_File/uvm-tutorial-for-candy-lovers-master/do
+vjelly_bean_extra
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 TUXo_GSENgfVEXN^W7CA:0
+I;AT[>VLSWJEP_SOnGI>;J1
+Z3 !s105 design_sv_unit
+S1
+R0
+Z4 w1492987475
+Z5 8../src/tutorial_29/design.sv
+Z6 F../src/tutorial_29/design.sv
+L0 151
+Z7 OL;L;10.6c;65
+Z8 !s108 1659084442.000000
+Z9 !s107 ..\src\tutorial_29\jelly_bean_if.sv|..\src\tutorial_29\tests.svh|..\src\tutorial_29\env.svh|..\src\tutorial_29\agent.svh|..\src\tutorial_29\sequences.svh|..\src\tutorial_29\ral.svh|..\src\tutorial_29\transactions.svh|..\src\tutorial_29\jelly_bean_pkg.sv|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_deprecated_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_reg_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_callback_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_sequence_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/tlm1/uvm_tlm_imps.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_tlm_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_printer_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_object_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_phase_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_message_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_global_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_version_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/uvm_macros.svh|../src/tutorial_29/testbench.sv|../src/tutorial_29/design.sv|
+Z10 !s90 -reportprogress|300|+incdir+D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src|../src/tutorial_29/design.sv|../src/tutorial_29/testbench.sv|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 +incdir+D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+Yjelly_bean_if
+R1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ENA[jO7<NUSiU^^GlMJ9<3
+IUH;1fGl3bmi0:cPVWF2;01
+R3
+S1
+R0
+R4
+8..\src\tutorial_33\jelly_bean_if.sv
+F..\src\tutorial_33\jelly_bean_if.sv
+L0 5
+R7
+Z14 !s108 1659103779.000000
+Z15 !s107 ..\src\tutorial_33\jelly_bean_if.sv|..\src\tutorial_33\test.svh|..\src\tutorial_33\env.svh|..\src\tutorial_33\agent.svh|..\src\tutorial_33\sequences.svh|..\src\tutorial_33\transactions.svh|..\src\tutorial_33\jelly_bean_pkg.sv|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_deprecated_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_reg_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_callback_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_sequence_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/tlm1/uvm_tlm_imps.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_tlm_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_printer_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_object_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_phase_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_message_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_global_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_version_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/uvm_macros.svh|../src/tutorial_33/testbench.sv|../src/tutorial_33/design.sv|
+Z16 !s90 +incdir+D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src|../src/tutorial_33/design.sv|../src/tutorial_33/testbench.sv|
+!i113 0
+R11
+R12
+R13
+vjelly_bean_partner
+R1
+Z17 DXx6 mtiUvm 7 uvm_pkg 0 22 <R5I]K9WECE;2=F<>n3Ah1
+Z18 DXx4 work 14 jelly_bean_pkg 0 22 OI4E:[6oioO1=XO5jAW<@1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 `WZDL52<JEdWLn62<kO=C1
+IF]LaWLORm6B7hdD6P6Xnd1
+R3
+S1
+R0
+R4
+R5
+R6
+L0 116
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R13
+vjelly_bean_partnership
+R1
+R17
+R18
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZJ<7zEE=9k_=l1hoB:4o70
+I_]S@@>@;e1UNSaXjDahIm2
+R3
+S1
+R0
+R4
+R5
+R6
+L0 37
+R7
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R13
+Xjelly_bean_pkg
+!s115 jelly_bean_if
+R1
+R17
+V8D9_TEnb?KiW=eC=cFZD32
+r1
+!s85 0
+31
+!i10b 1
+!s100 eUMa2:TE8RNS:2VAS2Hf83
+I8D9_TEnb?KiW=eC=cFZD32
+S1
+R0
+w1659103772
+F..\src\tutorial_33\jelly_bean_pkg.sv
+F..\src\tutorial_33\transactions.svh
+F..\src\tutorial_33\sequences.svh
+F..\src\tutorial_33\agent.svh
+F..\src\tutorial_33\env.svh
+F..\src\tutorial_33\test.svh
+L0 5
+R7
+R14
+R15
+R16
+!i113 0
+R11
+R12
+R13
+vjelly_bean_subsystem
+R1
+R17
+DXx4 work 14 jelly_bean_pkg 0 22 >2VA7:kV;T@I9]I2h00Yg1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 91BMHR:9ejD>I;:WWJ2MP3
+Ia^PiOM70^Ml<5W28OfSce3
+!s105 tutorial_7_and_8_sv_unit
+S1
+R0
+w1658761885
+8../src/tutorial_7_and_8.sv
+F../src/tutorial_7_and_8.sv
+L0 630
+R7
+!s108 1658803924.000000
+!s107 D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_deprecated_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_reg_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_callback_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_sequence_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/tlm1/uvm_tlm_imps.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_tlm_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_printer_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_object_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_phase_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_message_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_global_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/macros/uvm_version_defines.svh|D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src/uvm_macros.svh|../src/tutorial_7_and_8.sv|
+!s90 +incdir+D:/Questasim/Questasim/uvm-1.2/../verilog_src/uvm-1.2/src|../src/tutorial_7_and_8.sv|
+!i113 0
+R11
+R12
+R13
+vjelly_bean_taster
+R1
+R17
+DXx4 work 14 jelly_bean_pkg 0 22 8D9_TEnb?KiW=eC=cFZD32
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 k=em<iM9;ER]eOf[Y8ABi0
+IY@TjEbW[BH7RM83cNl3OZ0
+R3
+S1
+R0
+R4
+8../src/tutorial_33/design.sv
+F../src/tutorial_33/design.sv
+L0 10
+R7
+R14
+R15
+R16
+!i113 0
+R11
+R12
+R13
+vtop
+R1
+R17
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 >P]7kE2febMUXFke[jlQz1
+I9hjmL85VmCEPkO<ZX4EjN2
+!s105 testbench_sv_unit
+S1
+R0
+R4
+8../src/tutorial_33/testbench.sv
+F../src/tutorial_33/testbench.sv
+L0 5
+R7
+R14
+R15
+R16
+!i113 0
+R11
+R12
+R13

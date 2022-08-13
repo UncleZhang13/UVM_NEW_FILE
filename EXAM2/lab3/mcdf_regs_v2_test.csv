@@ -1,0 +1,17 @@
+register,address,reg_access,field,field_access,reset_value,bitpos_end,bitpos_start,function
+slv_en,0x00,RW,en,RW,0x0,3,0,channel enable
+,,,reserved,RO,0x0,31,4,reserved 
+parity_err_clr,0x04,RW,err_elr,RW,0x0,3,0,channel enable
+,,,reserved,RO,0x0,31,4,reserved 
+slv_id,0x08,RW,slv0_id,RW,0x0,7,0,channel enable
+,,,slv1_id,RW,0x01,15,8,priority level
+,,,slv2_id,RW,0x02,23,16,packet length
+,,,slv3_id,RW,0x03,31,24,reserved 
+slv_len,0x0C,RW,slv0_len,RW,0x0,7,0,fifo available storage
+,,,slv1_len,RW,0x01,15,8,reserved 
+,,,slv2_len,RW,0x02,23,16,
+,,,slv3_len,RW,0x03,31,24,
+slv0_free_slot,0x14,RO,fifo_avail,RO,0x20,7,0,fifo available storage
+,,,reserved,RO,0x0,31,8,reserved 
+chnl2_stat,0x18,RO,fifo_avail,RO,0x20,7,0,fifo available storage
+,,,reserved,RO,0x0,31,8,reserved 

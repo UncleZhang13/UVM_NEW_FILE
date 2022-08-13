@@ -1,0 +1,125 @@
+C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_if.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_if.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface apb_if
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_if.sv(21): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/sync_dff_fifo.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/sync_dff_fifo.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sync_dff_fifo
+
+Top level modules:
+	sync_dff_fifo
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/param_def.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/param_def.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/formater.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/formater.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module formater
+
+Top level modules:
+	formater
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/dpi_ref.c {1 {sccom -work work -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/dpi_ref.c
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/mcdf.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/mcdf.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcdf
+
+Top level modules:
+	mcdf
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/chnl_pkg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/chnl_pkg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package chnl_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/chnl_pkg.sv(3): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/RR_arbiter.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/RR_arbiter.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RR_arbiter
+
+Top level modules:
+	RR_arbiter
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/fmt_pkg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/fmt_pkg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package fmt_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/fmt_pkg.sv(4): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/slave_node.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/slave_node.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module slave_node
+
+Top level modules:
+	slave_node
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_rgm_pkg_ref.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_rgm_pkg_ref.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package mcdf_rgm_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_rgm_pkg_ref.sv(3): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/tb.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling interface apb_if
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:\Users\Uncle\Desktop\UVM_File\EXAM2\lab4\apb_if.sv(21): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling interface chnl_intf
+-- Compiling interface fmt_intf
+-- Compiling interface mcdf_intf
+-- Compiling interface bind_intf
+-- Compiling module tb
+-- Importing package mcdf_pkg
+-- Importing package apb_pkg
+-- Importing package chnl_pkg
+-- Importing package fmt_pkg
+-- Importing package mcdf_rgm_pkg
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_pkg_ref.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_pkg_ref.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package mcdf_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/mcdf_pkg_ref.sv(4): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Importing package apb_pkg
+-- Importing package chnl_pkg
+-- Importing package fmt_pkg
+-- Importing package mcdf_rgm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_pkg/apb_pkg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_pkg/apb_pkg.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling package apb_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Uncle/Desktop/UVM_File/EXAM2/lab4/apb_pkg/apb_pkg.sv(8): Using implicit +incdir+D:/Questasim/Questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/reg_if.v {1 {vlog -work work -vopt -stats=none C:/Users/Uncle/Desktop/UVM_File/EXAM2/mcdf_v2/reg_if.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module reg_if
+
+Top level modules:
+	reg_if
+
+} {} {}}
